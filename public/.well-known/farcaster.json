@@ -1,14 +1,14 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjM4MzYxMiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDZCYTJmQjU0MzVlQmU3N0MxNjg4NjI5Y2VlQURENkYzOUQwQzJmMDAifQ",
-    "payload": "eyJkb21haW4iOiJoYWxvLWJhc2VhcHAudmVyY2VsLmFwcCJ9",
-    "signature": "Uz5EOEiYvn5x5ijtSLNgFRpeYT+L51BSEKT0hNMNI51w7HrS5RPv3tuVTO5nF/EYaR9pTJMCBMh5w+Cm80FACxw="
+    "header": "eyJmaWQiOjM4MzYxMiwidHlwZSI6ImF1dGgiLCJrZXkiOiIweEY1NWMwOWJiMzc4MzlmOGFiZWIzM0Q1QTI1NmZhNjU0OUM4MjlmQ0IifQ",
+    "payload": "eyJkb21haW4iOiJoYWxvLW5pbmUtaW5kb2wudmVyY2VsLmFwcCJ9",
+    "signature": "IbWgA7x9b87asuPtV+n1tGllcyz7+Rhmv5ntBSmAFmB/+ia+R1c5lN17AKq5TgxAuPVha9dw6jJApCWkAtNvsBw="
   },
   "miniapp": {
     "version": "1",
     "name": "HaloFinity",
-    "homeUrl": "https://halo-baseapp.vercel.app",
-    "iconUrl": "https://halo-baseapp.vercel.app/favicon.ico",
+    "homeUrl": "https://halo-nine-indol.vercel.app",
+    "iconUrl": "https://halo-nine-indol.vercel.app/favicon.ico",
     "description": "On-chain reflex mini-game. Tap to jump, dodge rings, climb the leaderboard."
   },
   "baseBuilder": {
