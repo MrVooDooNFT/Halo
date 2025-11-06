@@ -8,10 +8,11 @@
     "version": "1",
     "name": "HaloFinity",
     "homeUrl": "https://halo-nine-indol.vercel.app",
-    "iconUrl": "https://halo-nine-indol.vercel.app/favicon.ico",
+    "iconUrl": "https://halo-nine-indol.vercel.app/icon.png",
     "description": "On-chain reflex mini-game. Tap to jump, dodge rings, climb the leaderboard."
   },
   "baseBuilder": {
     "ownerAddress": "0x6002F67a6A7cacF200Ff8fd4E5E8AdA3D4E03Ca5"
   }
 }
+
